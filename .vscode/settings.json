@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "": true
+  },
+  "search.useGlobalIgnoreFiles": true,
+  "search.useParentIgnoreFiles": true,
+  "editor.linkedEditing": true,
+  "liveServer.settings.port": 5501
+}
